@@ -1,0 +1,3 @@
+The following is the Graphos Processing Engine Implementation using 2 LPC 1769 Modules.
+The First Module acts as the Master and the Secind Module acts as a Slave.
+The Master and Slave Communicate via SPI Interface.
